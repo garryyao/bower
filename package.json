@@ -56,7 +56,10 @@
     "tar-fs": "0.5.2",
     "tmp": "0.0.23",
     "update-notifier": "0.2.0",
-    "which": "~1.0.5"
+    "which": "~1.0.5",
+    "slash": "~0.1.1",
+    "requirejs": "~2.1.9",
+    "minimatch": "~0.2.12"
   },
   "devDependencies": {
     "coveralls": "~2.11.0",
